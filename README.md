@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Jay, a third-year Computer Science student at the University of Waterloo.  
 
-Previously, I studied Computer Science at Dalhousie University for two years. When I was at Dal, I interned at [Dash Hudson](https://www.dashhudson.com/) in the summer of 2022 and at [Bluelight Analytics](https://www.bluelightanalytics.com/) in the summer of 2021.  
+Previously, I studied Computer Science at Dalhousie University for two years. When I was at Dal, I interned as a software developer at [Dash Hudson](https://www.dashhudson.com/) in the summer of 2022 and at [Bluelight Analytics](https://www.bluelightanalytics.com/) in the summer of 2021.  
 
 Nice to meet you ☀️
 <!--
