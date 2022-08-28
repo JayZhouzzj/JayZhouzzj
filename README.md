@@ -1,4 +1,12 @@
 ### Hi there 👋
+I'm Jay, currently a third year Computer Science student at University of Waterloo.  
+In the past, I interned at [Dash Hudson](https://www.dashhudson.com/) and [Bluelight Analytics](https://www.bluelightanalytics.com/)
+asd
+
+### 📫 How to reach me:
+<a href="https://www.linkedin.com/in/jay-zhengjie-zhou/" target="_blank" rel=”noopener”>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <!--
 **JayZhouzzj/JayZhouzzj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
