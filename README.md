@@ -1,10 +1,17 @@
 ### Hi there 👋
-I'm Jay, currently a third year Computer Science student at University of Waterloo.  
-In the past, I interned at [Dash Hudson](https://www.dashhudson.com/) and [Bluelight Analytics](https://www.bluelightanalytics.com/)
-asd
+I'm Jay, a third-year Computer Science student at the University of Waterloo.  
 
-### 📫 How to reach me:
-<a href="https://www.linkedin.com/in/jay-zhengjie-zhou/" target="_blank" rel=”noopener”>
+Previously, I studied Computer Science at Dalhousie University for two years. When I was at Dal, I interned at [Dash Hudson](https://www.dashhudson.com/) in the summer of 2022 and at [Bluelight Analytics](https://www.bluelightanalytics.com/) in the summer of 2021.  
+
+Nice to meet you ☀️
+<!--
+<img src="https://github-readme-stats.vercel.app/api?username=JayZhouzzj" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayZhouzzj" />
+
+
+### 📫 How to reach me  
+-->
+<a href="https://www.linkedin.com/in/jay-zhengjie-zhou/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
