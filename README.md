@@ -12,8 +12,14 @@ Nice to meet you ☀️
 -->
 ## I use ↓
 <div>
-  <a href="https://www.java.com/en/">
+  <a href="https://www.java.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="25" height="25"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="25" height="25"/>
+  </a>
+  <a href="https://wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="25" height="25"/>
   </a>
   &nbsp &nbsp
   <a href="https://reactjs.org/">
@@ -25,24 +31,57 @@ Nice to meet you ☀️
   <a href="https://flutter.dev/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="25" height="25"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/HTML">
+  <a href="https://wikipedia.org/wiki/HTML">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="25" height="25"/>
   </a>
-  <a href="https://https://www.w3.org/Style/CSS/Overview.en.html">
+  <a href="https://wikipedia.org/wiki/CSS">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="25" height="25"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/JavaScript">
+  <a href="https://wikipedia.org/wiki/JavaScript">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25" height="25"/>
   </a>
   &nbsp &nbsp
   <a href="https://expressjs.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="25" height="25"/>
   </a>
-  <a href="https://flask.palletsprojects.com/en/2.2.x/">
+  <a href="https://flask.palletsprojects.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="25" height="25"/>
   </a>
-  <a href="https://nodejs.org/en/">
+  <a href="https://nodejs.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="25" height="25"/>
+  </a>
+  <a href="https://aws.amazon.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="25" height="25"/>
+  </a>
+  &nbsp &nbsp
+  <a href="https://www.mysql.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="25" height="25"/>
+  </a>
+  <a href="https://www.sqlite.org/index.html/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="25" height="25"/>
+  </a>
+  <a href="https://www.sqlalchemy.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="25" height="25"/>
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="25" height="25"/>
+  </a>
+  &nbsp &nbsp
+  <a href="https://git-scm.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="25" height="25"/>
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="25" height="25"/>
+  </a>
+  <a href="https://kubernetes.io/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="25" height="25"/>
+  </a>
+  &nbsp &nbsp
+  <a href="https://www.vim.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="25" height="25"/>
+  </a>
+  <a href="https://www.jetbrains.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="25" height="25"/>
   </a>
 </div>
 
