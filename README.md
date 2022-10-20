@@ -18,6 +18,9 @@ Nice to meet you ☀️
   <a href="https://www.python.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="25" height="25"/>
   </a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="25" height="25"/>
+  </a>
   <a href="https://wikipedia.org/wiki/C_(programming_language)">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="25" height="25"/>
   </a>
