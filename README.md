@@ -99,7 +99,7 @@ Nice to meet you ☀️
   <img src="https://github.com/JayZhouzzj/assets/blob/main/useryourillusion.png" width="100" height="100" />
 </a>
 
-#### #️⃣ Visitor count <br>
+#### #️⃣ View count <br>
 <img src="https://profile-counter.glitch.me/JayZhouzzj/count.svg" />
 (since 2022.10.20)
 <!--
