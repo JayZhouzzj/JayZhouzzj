@@ -99,11 +99,14 @@ Nice to meet you ☀️
 <a href="https://open.spotify.com/embed/track/3YRCqOhFifThpSRFJ1VWFM">
   <img src="https://github.com/JayZhouzzj/assets/blob/main/useryourillusion.png" width="100" height="100" />
 </a>
--->
+
 
 #### #️⃣ View count <br>
 <img src="https://profile-counter.glitch.me/JayZhouzzj/count.svg" />
 (since 2022.10.20)
+-->
+
+
 <!--
 **JayZhouzzj/JayZhouzzj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
