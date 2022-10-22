@@ -93,11 +93,13 @@ Nice to meet you ☀️
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<!--
 ## Random things 💡
 #### 🎸 A song for you
 <a href="https://open.spotify.com/embed/track/3YRCqOhFifThpSRFJ1VWFM">
   <img src="https://github.com/JayZhouzzj/assets/blob/main/useryourillusion.png" width="100" height="100" />
 </a>
+-->
 
 #### #️⃣ View count <br>
 <img src="https://profile-counter.glitch.me/JayZhouzzj/count.svg" />
