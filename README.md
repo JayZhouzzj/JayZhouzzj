@@ -49,8 +49,8 @@ Nice to meet you ☀️
 [<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="25" height="25"/>](https://kubernetes.io/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" width="25" height="25"/>](https://www.terraform.io/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="25" height="25"/>](https://www.jenkins.io/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="25" height="25"/>](https://www.vim.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="25" height="25"/>](https://code.visualstudio.com/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="25" height="25"/>](https://www.vim.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="25" height="25"/>](https://www.jetbrains.com/)
 
 ## What I am doing 💭
