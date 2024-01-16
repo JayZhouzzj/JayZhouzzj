@@ -32,9 +32,8 @@ Nice to meet you ☀️
 [<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="25" height="25"/>](https://developer.android.com/kotlin)
 #### Backend
 [<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="25" height="25"/>](https://flask.palletsprojects.com/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="25" height="25"/>](https://expressjs.com/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="25" height="25"/>](https://nodejs.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="25" height="25"/>](https://spring.io/projects/spring-boot)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="25" height="25"/>](https://expressjs.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="25" height="25"/>](https://aws.amazon.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="25" height="25"/>](https://firebase.google.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="25" height="25"/>](https://www.mysql.com/)
