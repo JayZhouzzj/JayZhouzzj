@@ -55,11 +55,9 @@ Nice to meet you ☀️
 
 ## What I am doing 💭
 
-Currently on study term. Quick glance:
-
-- Distributed Systems
-- Software Delivery
-- Introduction to Artificial Intelligence
+Currently on break
+- Chilling at home
+- Casually learning some economics
 
 ## How to reach me 📫
 
