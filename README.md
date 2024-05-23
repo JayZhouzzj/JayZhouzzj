@@ -40,7 +40,7 @@ Nice to meet you ☀️
 [<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="25" height="25"/>](https://www.mysql.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="25" height="25"/>](https://www.sqlite.org/index.html/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="25" height="25"/>](https://www.mongodb.com/)
-[<img src="https://github.com/elastic/eui/blob/main/src/components/icon/svgs/logo_elastic.svg" width="25" height="25"/>](https://www.elastic.co/elasticsearch/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" width="25" height="25"/>](https://www.elastic.co/elasticsearch/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="25" height="25"/>](https://pandas.pydata.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" width="25" height="25"/>](https://en.wikipedia.org/wiki/The_Apache_Software_Foundation/)
 #### Tools
