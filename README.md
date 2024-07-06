@@ -55,9 +55,7 @@ Nice to meet you ☀️
 
 ## What I am doing 💭
 
-Currently on break
-- Chilling at home
-- Casually learning some economics
+Interning
 
 ## How to reach me 📫
 
