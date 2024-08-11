@@ -55,7 +55,7 @@ Nice to meet you ☀️
 
 ## What I am doing 💭
 
-Interning
+Doing my final internship
 
 ## How to reach me 📫
 
