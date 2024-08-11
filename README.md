@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Jay, a senior Computer Science student at the University of Waterloo with various experience in software engineering and research. Before joining UWaterloo, I studied Computer Science at Dalhousie University for two years.
+I'm Jay, a senior Computer Science student at the University of Waterloo with various experience in software engineering and research
 
 Nice to meet you ☀️
 
@@ -55,7 +55,7 @@ Nice to meet you ☀️
 
 ## What I am doing 💭
 
-Doing my final internship
+Interning
 
 ## How to reach me 📫
 
