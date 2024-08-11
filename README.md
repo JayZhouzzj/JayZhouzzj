@@ -34,6 +34,7 @@ Nice to meet you ☀️
 [<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="25" height="25"/>](https://aws.amazon.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="25" height="25"/>](https://cloud.google.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="25" height="25"/>](https://firebase.google.com/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-original.svg" width="25" height="25"/>](https://grpc.io/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="25" height="25"/>](https://flask.palletsprojects.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="25" height="25"/>](https://spring.io/projects/spring-boot)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="25" height="25"/>](https://expressjs.com/)
