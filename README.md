@@ -54,10 +54,6 @@ Nice to meet you ☀️
 [<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="25" height="25"/>](https://www.vim.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="25" height="25"/>](https://www.jetbrains.com/)
 
-## What I am doing 💭
-
-Interning
-
 ## How to reach me 📫
 
 <a href="https://www.linkedin.com/in/jay-zhengjie-zhou/">
