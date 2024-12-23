@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Jay, a senior Computer Science student at the University of Waterloo with various experience in software engineering and research
+I'm Jay, a Software Engineer at Google.
 
 Nice to meet you ☀️
 
